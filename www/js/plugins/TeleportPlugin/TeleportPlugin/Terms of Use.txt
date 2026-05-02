@@ -1,0 +1,26 @@
+Términos de uso:
+
+Los plugins incluidos en este pack son proporcionados tal cual, sin garantía de ningún tipo. El uso de estos plugins es bajo tu propio riesgo. El creador del pack no se hace responsable de cualquier daño o pérdida causada por el uso de estos plugins.
+
+Estás autorizado a utilizar los plugins incluidos en este pack en tus proyectos de RPG Maker MV, ya sean proyectos personales o comerciales. Sin embargo, no puedes redistribuir, vender o compartir estos plugins individualmente o como parte de otro pack o colección de plugins sin el consentimiento del creador.
+
+Si modificas alguno de los plugins incluidos en este pack, te pedimos que añadas crédito al creador original en la documentación o en los créditos de tu proyecto.
+
+Al utilizar estos plugins, aceptas cumplir con los términos de uso mencionados anteriormente.
+
+Al utilizar los plugins incluidos en este pack, se requiere dar crédito al creador (AdamElDev) en el juego, ya sea en los créditos del juego, en la pantalla de inicio o en cualquier otra ubicación adecuada para los créditos.
+
+
+
+Translation:
+Terms of Use:
+
+The plugins included in this pack are provided as-is, without any warranty of any kind. The use of these plugins is at your own risk. The creator of the pack is not liable for any damages or losses caused by the use of these plugins.
+
+You are authorized to use the plugins included in this pack in your RPG Maker MV projects, whether personal or commercial. However, you may not redistribute, sell, or share these plugins individually or as part of another pack or collection of plugins without the express written consent of the creator.
+
+If you modify any of the plugins included in this pack, we kindly ask you to give credit to the original creator in the documentation or credits of your project.
+
+By using these plugins, you agree to comply with the aforementioned terms of use.
+
+Additionally, when using the plugins, you are required to provide credit to the creator (AdamElDev) in the game, whether in the game credits, on the title screen, or in any other appropriate location for credits.

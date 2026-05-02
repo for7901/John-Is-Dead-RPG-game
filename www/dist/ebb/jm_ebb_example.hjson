@@ -1,0 +1,27 @@
+{
+
+    "layers": [
+
+        {"image": "002",  "image_mode": "stretched",  "palette_shift": 0},
+
+        {"image": "009",  "image_mode": "tiled",  "effect": { "type": "horizontal_interlaced",  "amplitude": 256,  "frequency": 3},  "palette_shift": 2, "scroll": [0, 1]},
+
+        {"image": "003",  "image_mode": "tiled",  "palette_shift": 0,  "effect": { "type": "horizontal_interlaced", "amplitude": 64, "frequency": 1}, "scroll": [0, 1]},
+
+        {"image": "007",   "image_mode": "tiled",   "effect": { "type": "horizontal_interlaced",   "amplitude": 256,  "frequency": 1  },  "palette_shift": 1, "scroll": [0, 1]}
+
+    ],
+
+    "configurations": {
+
+        "alta": [1, 0],
+
+        "default": { "layers": [1, 0],  "speed": 2},
+
+        "puppy": {"layers": [0, 1],  "speed": 1},
+
+        "monster": {"layers": [3, 2],  "speed": 1}
+
+    }
+
+}
